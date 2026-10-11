@@ -10,7 +10,7 @@
 
 ## 🎥 Video demostrativo
 
-**[VER VIDEO DEMOSTRATIVO](ENLACE_DEL_VIDEO)**
+**[VER VIDEO DEMOSTRATIVO] https://itlaedudo-my.sharepoint.com/:f:/g/personal/20240860_itla_edu_do/IgBCOxOxKrdmT7lW4z-URXITAZgE_xpigE5JC0A8B_EAt6k?e=rbmBjN
 
 Video de demostración de la infraestructura, configuraciones de seguridad, pruebas de conectividad, políticas de acceso y resultados obtenidos.
 
